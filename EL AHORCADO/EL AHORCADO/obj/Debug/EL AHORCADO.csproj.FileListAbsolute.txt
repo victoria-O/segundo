@@ -1,0 +1,7 @@
+C:\Users\windws10\Desktop\TOPICOS 2\EL AHORCADO\EL AHORCADO\bin\Debug\EL AHORCADO.exe.config
+C:\Users\windws10\Desktop\TOPICOS 2\EL AHORCADO\EL AHORCADO\bin\Debug\EL AHORCADO.exe
+C:\Users\windws10\Desktop\TOPICOS 2\EL AHORCADO\EL AHORCADO\bin\Debug\EL AHORCADO.pdb
+C:\Users\windws10\Desktop\TOPICOS 2\EL AHORCADO\EL AHORCADO\obj\Debug\EL AHORCADO.csprojResolveAssemblyReference.cache
+C:\Users\windws10\Desktop\TOPICOS 2\EL AHORCADO\EL AHORCADO\obj\Debug\EL AHORCADO.csproj.CoreCompileInputs.cache
+C:\Users\windws10\Desktop\TOPICOS 2\EL AHORCADO\EL AHORCADO\obj\Debug\EL AHORCADO.exe
+C:\Users\windws10\Desktop\TOPICOS 2\EL AHORCADO\EL AHORCADO\obj\Debug\EL AHORCADO.pdb
